@@ -28,9 +28,7 @@ Things you may want to cover:
 
   - Use TDD approach
   - Use OOD principles
-
-  - DB schema design
-  - Re-familiarize with Active Record and DB interface
+  - Use good Git workflows
   - implement API routes and controllers
     - test routes
   - API endpoint JSON design x2
