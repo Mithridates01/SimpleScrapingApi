@@ -36,3 +36,7 @@ Things you may want to cover:
   - API endpoint JSON design x2
     - create MVP
     - add additional query params for return appropriate information.
+
+* Resources
+  - [shoulda matchers](https://thoughtbot.com/upcase/test-driven-rails-resources/shoulda_matchers.pdf)
+
